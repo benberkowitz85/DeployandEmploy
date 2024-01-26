@@ -12,9 +12,12 @@
     "author": "Ben Berkowitz",
     "license": "MIT",
     "dependencies": {
+        "-": "^0.0.1",
         "asciiart-logo": "^0.2.7",
         "inquirer": "^8.2.4",
+        "mysql": "^2.18.1",
         "mysql2": "^3.9.0",
+        "root": "^3.2.0",
         "start": "^5.1.0"
     },
     "repository": {

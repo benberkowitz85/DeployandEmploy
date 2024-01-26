@@ -1,6 +1,6 @@
 import  inquirer from "inquirer";
 import logo from  "asciiart-logo";
-import db from  "db\index.js";
+import db from  "db/index.js";
 const {prompt} = inquirer
 
 init()
