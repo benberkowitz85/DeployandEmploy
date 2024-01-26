@@ -5,20 +5,23 @@
     "main": "index.js",
     "type": "module",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node index.js"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
     },
     "keywords": [],
     "author": "Ben Berkowitz",
     "license": "MIT",
     "dependencies": {
-      "asciiart-logo": "^0.2.7",
-      "inquirer": "^9.2.12",
-      "mysql2": "^3.6.3",
-      "start": "^5.1.0"
+        "asciiart-logo": "^0.2.7",
+        "inquirer": "^8.2.4",
+        "mysql2": "^3.9.0",
+        "start": "^5.1.0"
     },
     "repository": {
-      "type": "git",
-      "url": "BenBerkowitz85"
+        "type": "git",
+        "url": "BenBerkowitz85"
+    },
+    "devDependencies": {
+        "@types/node": "^20.11.7"
     }
-  }
+}
