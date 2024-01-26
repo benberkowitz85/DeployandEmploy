@@ -33,17 +33,17 @@ VALUES ("Accountant_Manager", 140000, 3);
 
 /* === || EMPLOYEE ARRAY || === */
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-/* John Doe - Sales Lead - Sales Department */
-VALUES ("John", "Doe", 1, null); 
+/* David Bowie - Sales Lead - Sales Department */
+VALUES ("David", "Bowie", 1, null); 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-/* Silvia Fernandez - Manager - Engineer Department */
-VALUES ("Ale", "Seas", 1, 1);
+/* David Tennant - Manager - Engineer Department */
+VALUES ("David", "Tennant", 1, 1);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-/* Denise Watson - Account Manager- Accounting Department */
-VALUES ("Denise", "Watson", 5, null);
+/* Este Haim - Account Manager- Accounting Department */
+VALUES ("Este", "Haim", 5, null);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-/* Silvia Fernandez - Manager - Sales Department */
-VALUES ("Nicholas", "Hover", 1, 1);
+/* Finn Barkowitz - Manager - Sales Department */
+VALUES ("Finn", "Barkowitz", 1, 1);
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-/* Denise Watson - Professional 1- Legal Department */
-VALUES ("Silvia", "Fernandez", 5, null);
+/* Clark Kent - Professional 1- Legal Department */
+VALUES ("Clark", "Kent", 5, null);
