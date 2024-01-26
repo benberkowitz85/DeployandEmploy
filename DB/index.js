@@ -1,4 +1,4 @@
-import connection  from "./connection.js";
+import connection  from "db\connections.js";
 
 class DB {
     //Keeping a reference to the connection on the class in case we need it later
