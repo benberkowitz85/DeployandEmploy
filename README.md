@@ -1,5 +1,12 @@
 # DeployandEmploy
 
+Description 
+
+Make the best of your work force with employ and deploy. Keep your team members organized by jobs, their responsibilities, and strengths. Team work makes the dream work.
+
+Demo
+
+
 User Story 
 
 AS A business owner 
@@ -25,3 +32,7 @@ WHEN I choose to add an employee
 THEN I am prompted to enter the employee’s first name, last name, role, and manager, and that employee is added to the database 
 WHEN I choose to update an employee role 
 THEN I am prompted to select an employee to update and their new role and this information
+
+Acknowledgements 
+
+As always thank you to Kai, Karl, my group mates, youtube walk throughs, and the almighty google.
